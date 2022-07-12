@@ -1,22 +1,42 @@
 # Review-3A
-This is my first project
 
-Built With
-Html/css
-linter
-Authors
-👤 Kalkidan Daniel
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-GitHub: @kal2944
-🤝 Contributing
+# Hello World
+
+> This is my first project
+
+
+## Built With
+
+- Html/css
+- linter
+
+
+
+
+## Authors
+
+👤 **Kalkidan Daniel**
+
+- GitHub: [@kal2944](https://github.com/kal2944)
+
+
+## 🤝 Contributing
+
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the issues page.
+Feel free to check the [issues page](../../issues/).
 
-Show your support
+## Show your support
+
 Give a ⭐️ if you like this project!
 
-Acknowledgments
-i used Abrar Hussaim's Repository for review purpose
-📝 License
-This project is MIT licensed.
+## Acknowledgments
+
+- i used Abrar Hussaim's for review purpose
+
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
